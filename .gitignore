@@ -1,1 +1,14 @@
+node_modules
+images
+musics
+videos
+about.html
+gallery.html
+contact.html
+index.html
+music.html
+package.json
+package-lock.json
+video.html
+.gitignore
 
